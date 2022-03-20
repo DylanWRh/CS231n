@@ -1,5 +1,5 @@
 # CS231n
-Here's my view of **Assignments** for [CS231n 2021](http://cs231n.stanford.edu/)
+Here's my view of **Assignments** for [CS231n 2021](http://cs231n.stanford.edu/), and also 2017 and 2021 **slides** of the course and useful **papers** recommanded. 
 
 ## Experience
 As it is completed in my freshman year, when I am no so familiar with Python and some packages/libraries (especially **numpy**), so sometimes it is challenging for me to accomplish the tasks and I have to look for help. 
