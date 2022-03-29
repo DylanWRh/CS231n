@@ -3,8 +3,6 @@ Here's my view of **Assignments** for **[CS231n 2021](http://cs231n.stanford.edu
 
 The Slides of the course can be visited **[here](http://cs231n.stanford.edu/slides/)**.
 
-The (2021 version) assignment can be downloaded **[here](https://cs231n.github.io/)**
-
 The (2017 version) course can be learned **[here](https://www.bilibili.com/video/BV1nJ411z7fe)**.
 
 ## Experience
